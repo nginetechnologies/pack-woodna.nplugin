@@ -1,0 +1,12 @@
+{
+    "87c755a8-44a4-affd-3026-06df9535c62e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Woodna_Thumb.tex.nasset"
+    },
+    "e4d81723-ff28-4ac4-acac-a0b01bd62071": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Woodna Assets"
+    },
+    "guid": "2d3b6ae7-0aac-4cf5-015c-7d5534b92e20"
+}
